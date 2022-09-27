@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Custom Xenia splash
+Description=Theme featuring Xenia the fox.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/xenia-logo
+ScriptFile=/usr/share/plymouth/themes/xenia-logo/xenia-logo.script
