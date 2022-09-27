@@ -1,6 +1,8 @@
 # xenia-plymouth
 plymouth boot theme featuring Xenia
 
+Art by Alan Mackey
+
 # installation
 
 detailed instructions on customising plymouth at my [projects page on the subject](http://tranarchy.fish/~rowan/projects/redecorating.html).
